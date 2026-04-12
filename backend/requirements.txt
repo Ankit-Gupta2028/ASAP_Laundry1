@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+passlib
+bcrypt==4.0.1
+pydantic-settings
+python-multipart
+jinja2
+aiosmtplib
+python-dotenv
+pydantic
+email-validator
