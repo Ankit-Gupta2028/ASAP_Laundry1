@@ -26,3 +26,12 @@ app.include_router(laundry_router, prefix="/laundry", tags=["laundry"])
 def read_root():
     return {"message": "Welcome to Laundry API"}
 
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
