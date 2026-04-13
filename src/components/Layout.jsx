@@ -31,7 +31,7 @@ export default function Layout() {
             <div className="bg-primary p-1.5 rounded-lg group-hover:bg-blue-700 transition-colors">
               <WashingMachine size={22} className="text-white" />
             </div>
-            <span className="font-bold text-xl tracking-tight text-slate-900 dark:text-white">ASPALaundry</span>
+            <span className="font-bold text-xl tracking-tight text-slate-900 dark:text-white">ASAP Laundry</span>
           </div>
 
           {user && (

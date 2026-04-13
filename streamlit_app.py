@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("ASPA Laundry")
+st.title("ASAP Laundry")
 
 st.write("Welcome to Laundry System")
 

@@ -307,7 +307,7 @@ export default function LandingPage() {
                 <div className="bg-primary p-2 rounded-lg">
                   <WashingMachine size={24} className="text-white" />
                 </div>
-                <span className="text-2xl font-bold tracking-tight">ASPALaundry</span>
+                <span className="text-2xl font-bold tracking-tight">ASAP Laundry</span>
               </div>
               <p className="mb-6 max-w-sm leading-relaxed">
                 Smart, reliable, and efficient laundry management designed exclusively for students. We take the hassle out of laundry.
@@ -327,7 +327,7 @@ export default function LandingPage() {
             <div>
               <h4 className="text-white font-bold mb-6 tracking-wide uppercase text-sm">Contact</h4>
               <ul className="space-y-4 font-medium">
-                <li>hello@aspalaundry.com</li>
+                <li>hello@asaplaundry.com</li>
                 <li>+1 (555) 123-4567</li>
                 <li>Student Union Building, Rm 104</li>
               </ul>
@@ -336,7 +336,7 @@ export default function LandingPage() {
           </div>
           
           <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm">© {new Date().getFullYear()} ASPALaundry. All rights reserved.</p>
+            <p className="text-sm">© {new Date().getFullYear()} ASAP Laundry. All rights reserved.</p>
             <div className="flex gap-6 text-sm font-medium">
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

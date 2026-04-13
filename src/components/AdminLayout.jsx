@@ -50,7 +50,7 @@ export default function AdminLayout() {
           <div className="bg-primary p-2 rounded-lg">
             <WashingMachine size={24} className="text-white" />
           </div>
-          <h1 className="text-xl font-bold tracking-tight">ASPALaundry</h1>
+          <h1 className="text-xl font-bold tracking-tight">ASAP Laundry</h1>
         </div>
         
         <nav className="flex-1 px-4 py-6 flex flex-col gap-2 overflow-y-auto">
