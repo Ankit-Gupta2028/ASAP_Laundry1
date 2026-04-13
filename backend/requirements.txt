@@ -9,3 +9,4 @@ aiosmtplib
 python-dotenv
 pydantic
 email-validator
+supabase
